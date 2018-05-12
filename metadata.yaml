@@ -32,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28552#Twinkle-and-Chubbins--13-Their-Astonishing-Adventures-in-Nature-Fairyland
 gutenberg_issued: '2009-04-10'
 gutenberg_type: Text
 identifiers:
