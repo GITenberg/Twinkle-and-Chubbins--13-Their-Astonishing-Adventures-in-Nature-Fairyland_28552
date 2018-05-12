@@ -1,0 +1,56 @@
+_repo: Twinkle-and-Chubbins--13-Their-Astonishing-Adventures-in-Nature-Fairyland_28552
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barney, Maginel Wright
+    aliases:
+    - Wright, Margaret Ellen
+    - Enright, Maginel Wright
+    birthdate: 1877
+    deathdate: 1966
+    gutenberg_agent_id: '35429'
+    url: http://www.gutenberg.org/2009/agents/35429
+    wikipedia: http://en.wikipedia.org/wiki/Maginel_Wright_Enright
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Akers, Floyd
+    - Cooke, John Estes
+    - Bancroft, Laura
+    - Fitzgerald, Capt. Hugh
+    - Metcalf, Suzanne
+    - Fitzgerald, Hugh
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2009-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature -- Juvenile fiction'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcsh 'Edgeley (N.D.) -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: 'Twinkle and Chubbins: Their Astonishing Adventures in Nature-Fairyland'
+url: http://www.gutenberg.org/ebooks/28552
